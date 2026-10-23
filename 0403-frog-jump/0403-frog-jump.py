@@ -1,9 +1,5 @@
 class Solution(object):
     def canCross(self, stones):
-        """
-        :type stones: List[int]
-        :rtype: bool
-        """
         # Create a mapping of stone position -> set of incoming jump distances
         stone_positions = {stone: set() for stone in stones}
         
