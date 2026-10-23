@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Brian-Kimario/leetcode_cc/tree/master/0084-largest-rectangle-in-histogram) |
 | [0219-contains-duplicate-ii](https://github.com/Brian-Kimario/leetcode_cc/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Brian-Kimario/leetcode_cc/tree/master/0238-product-of-array-except-self) |
+| [0403-frog-jump](https://github.com/Brian-Kimario/leetcode_cc/tree/master/0403-frog-jump) |
 ## Binary Search
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Brian-Kimario/leetcode_cc/tree/master/0070-climbing-stairs) |
+| [0403-frog-jump](https://github.com/Brian-Kimario/leetcode_cc/tree/master/0403-frog-jump) |
 ## Memoization
 |  |
 | ------- |
