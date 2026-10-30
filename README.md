@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Brian-Kimario/leetcode_cc/tree/master/0070-climbing-stairs) |
 | [0322-coin-change](https://github.com/Brian-Kimario/leetcode_cc/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/Brian-Kimario/leetcode_cc/tree/master/0403-frog-jump) |
+| [1143-longest-common-subsequence](https://github.com/Brian-Kimario/leetcode_cc/tree/master/1143-longest-common-subsequence) |
 ## Memoization
 |  |
 | ------- |
@@ -122,4 +123,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Brian-Kimario/leetcode_cc/tree/master/0322-coin-change) |
+## String
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Brian-Kimario/leetcode_cc/tree/master/1143-longest-common-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Brian-Kimario/leetcode_cc/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
